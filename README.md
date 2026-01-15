@@ -4,7 +4,7 @@
 This project showcases an interactive Power BI dashboard designed to analyze coffee shop sales performance.
 
 🔍 Dashboard Features
-------
+-------
 ✅ KPI cards for Total Transactions, Quantity Sold, Revenue, and Profit
 
 ✅ Revenue analysis by Product Category and City
