@@ -5,21 +5,19 @@ This project showcases an interactive Power BI dashboard designed to analyze cof
 
 🔍 Dashboard Features
 ------
-KPI cards for Total Transactions, Quantity Sold, Revenue, and Profit
+✅ KPI cards for Total Transactions, Quantity Sold, Revenue, and Profit
 
-Revenue analysis by Product Category and City
+✅ Revenue analysis by Product Category and City
 
-Quantity and Revenue comparison by Branch
+✅ Quantity and Revenue comparison by Branch
 
-Interactive slicers for Year, Month, and Shop Name
+✅ Interactive slicers for Year, Month, and Shop Name
 
 🛠 Tools Used
 ----
-Power BI Desktop
+✔️ Power BI Desktop
 
-DAX
-
-Data modeling & visualization best practices
+✔️ Data modeling & visualization best practices
 
 🎯 Objective
 -----
